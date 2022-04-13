@@ -5,7 +5,7 @@ Dashboard implementation with Next and React Query.
 
 ## Demonstration
 
-![Project running](/project-images/upfi.gif)
+![Project running](/project-images/dashgo.gif)
 
 
 ## Running local
